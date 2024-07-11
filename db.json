@@ -1,6 +1,5 @@
 {
   "users": [
-    [
     {
         "gender": "female",
         "name": {
@@ -57,7 +56,6 @@
         },
         "nat": "US"
       }
-]
   ],
   "profile": {
     "name": "typicode"
